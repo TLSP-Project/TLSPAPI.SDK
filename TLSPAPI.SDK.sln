@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLSPAPI.SDK", "TLSPAPI.SDK\TLSPAPI.SDK.csproj", "{17E29FA4-E0C3-4C61-AEFE-8751446EA70C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLSPAPI.Example", "TLSPAPI.Example\TLSPAPI.Example.csproj", "{B8C9FDFD-6121-427C-B202-BA79EABAAF7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLSPAPI.NeteaseSDK", "TLSPAPI.NeteaseSDK\TLSPAPI.NeteaseSDK.csproj", "{D3F39F80-D1B4-4D47-A23E-94512AA45A3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17E29FA4-E0C3-4C61-AEFE-8751446EA70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E29FA4-E0C3-4C61-AEFE-8751446EA70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E29FA4-E0C3-4C61-AEFE-8751446EA70C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{17E29FA4-E0C3-4C61-AEFE-8751446EA70C}.Debug|x64.Build.0 = Debug|Any CPU
+		{17E29FA4-E0C3-4C61-AEFE-8751446EA70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E29FA4-E0C3-4C61-AEFE-8751446EA70C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17E29FA4-E0C3-4C61-AEFE-8751446EA70C}.Release|x64.ActiveCfg = Release|Any CPU
+		{17E29FA4-E0C3-4C61-AEFE-8751446EA70C}.Release|x64.Build.0 = Release|Any CPU
+		{B8C9FDFD-6121-427C-B202-BA79EABAAF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C9FDFD-6121-427C-B202-BA79EABAAF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C9FDFD-6121-427C-B202-BA79EABAAF7D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B8C9FDFD-6121-427C-B202-BA79EABAAF7D}.Debug|x64.Build.0 = Debug|Any CPU
+		{B8C9FDFD-6121-427C-B202-BA79EABAAF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C9FDFD-6121-427C-B202-BA79EABAAF7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C9FDFD-6121-427C-B202-BA79EABAAF7D}.Release|x64.ActiveCfg = Release|Any CPU
+		{B8C9FDFD-6121-427C-B202-BA79EABAAF7D}.Release|x64.Build.0 = Release|Any CPU
+		{D3F39F80-D1B4-4D47-A23E-94512AA45A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F39F80-D1B4-4D47-A23E-94512AA45A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F39F80-D1B4-4D47-A23E-94512AA45A3F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D3F39F80-D1B4-4D47-A23E-94512AA45A3F}.Debug|x64.Build.0 = Debug|Any CPU
+		{D3F39F80-D1B4-4D47-A23E-94512AA45A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F39F80-D1B4-4D47-A23E-94512AA45A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F39F80-D1B4-4D47-A23E-94512AA45A3F}.Release|x64.ActiveCfg = Release|Any CPU
+		{D3F39F80-D1B4-4D47-A23E-94512AA45A3F}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E762692-1695-4FBA-B98C-132F4FCA1D61}
+	EndGlobalSection
+EndGlobal
